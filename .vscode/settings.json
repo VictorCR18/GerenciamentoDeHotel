@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.referencedLibraries": [
+      "target/classes"
+    ],
+    "java.project.sourcePaths": [
+      "src/main/java/com/victorcr/App"
+    ],
+    "java.project.outputPath": "target/classes/com/victorcr"
+  }
+  

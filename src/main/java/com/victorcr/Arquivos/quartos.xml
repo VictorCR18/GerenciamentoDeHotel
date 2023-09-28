@@ -1,0 +1,9 @@
+<ArrayList>
+    <item>
+        <numeroDoQuarto>1</numeroDoQuarto>
+        <descricao>muito massa</descricao>
+        <tipoDeQuarto>luxo</tipoDeQuarto>
+        <precoDaDiaria>1000.0</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+</ArrayList>

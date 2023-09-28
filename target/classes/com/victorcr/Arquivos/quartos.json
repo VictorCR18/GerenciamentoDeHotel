@@ -1,0 +1,9 @@
+[
+  {
+    "numeroDoQuarto": 1,
+    "descricao": "muito massa",
+    "tipoDeQuarto": "luxo",
+    "precoDaDiaria": 1000.0,
+    "disponivel": true
+  }
+]
