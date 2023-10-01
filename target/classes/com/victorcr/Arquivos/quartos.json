@@ -26,5 +26,68 @@
     "tipoDeQuarto": "based",
     "precoDaDiaria": 1000000.0,
     "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 6,
+    "descricao": "massa demais",
+    "tipoDeQuarto": "normal",
+    "precoDaDiaria": 1002.0,
+    "disponivel": false
+  },
+  {
+    "numeroDoQuarto": 7,
+    "descricao": "brabo dms slk",
+    "tipoDeQuarto": "based",
+    "precoDaDiaria": 100092.0,
+    "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 8,
+    "descricao": "muito paia nao vale a pena",
+    "tipoDeQuarto": "peba",
+    "precoDaDiaria": 2.0,
+    "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 9,
+    "descricao": "esse ‚ massa",
+    "tipoDeQuarto": "based",
+    "precoDaDiaria": 199999.0,
+    "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 10,
+    "descricao": "maravilhoso uiui",
+    "tipoDeQuarto": "luxo",
+    "precoDaDiaria": 1.999999999e9,
+    "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 11,
+    "descricao": "sem ideia irmao",
+    "tipoDeQuarto": "sei la",
+    "precoDaDiaria": 12.0,
+    "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 12,
+    "descricao": "nem sei",
+    "tipoDeQuarto": "esqueci",
+    "precoDaDiaria": 1232.0,
+    "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 13,
+    "descricao": "teste master",
+    "tipoDeQuarto": "king",
+    "precoDaDiaria": 1.21313122e8,
+    "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 14,
+    "descricao": "agora vai",
+    "tipoDeQuarto": "legal dms",
+    "precoDaDiaria": 10.0,
+    "disponivel": false
   }
 ]

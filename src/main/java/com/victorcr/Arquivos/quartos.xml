@@ -27,4 +27,67 @@
         <precoDaDiaria>1000000.0</precoDaDiaria>
         <disponivel>true</disponivel>
     </item>
+    <item>
+        <numeroDoQuarto>6</numeroDoQuarto>
+        <descricao>massa demais</descricao>
+        <tipoDeQuarto>normal</tipoDeQuarto>
+        <precoDaDiaria>1002.0</precoDaDiaria>
+        <disponivel>false</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>7</numeroDoQuarto>
+        <descricao>brabo dms slk</descricao>
+        <tipoDeQuarto>based</tipoDeQuarto>
+        <precoDaDiaria>100092.0</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>8</numeroDoQuarto>
+        <descricao>muito paia nao vale a pena</descricao>
+        <tipoDeQuarto>peba</tipoDeQuarto>
+        <precoDaDiaria>2.0</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>9</numeroDoQuarto>
+        <descricao>esse ‚ massa</descricao>
+        <tipoDeQuarto>based</tipoDeQuarto>
+        <precoDaDiaria>199999.0</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>10</numeroDoQuarto>
+        <descricao>maravilhoso uiui</descricao>
+        <tipoDeQuarto>luxo</tipoDeQuarto>
+        <precoDaDiaria>1.999999999E9</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>11</numeroDoQuarto>
+        <descricao>sem ideia irmao</descricao>
+        <tipoDeQuarto>sei la</tipoDeQuarto>
+        <precoDaDiaria>12.0</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>12</numeroDoQuarto>
+        <descricao>nem sei</descricao>
+        <tipoDeQuarto>esqueci</tipoDeQuarto>
+        <precoDaDiaria>1232.0</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>13</numeroDoQuarto>
+        <descricao>teste master</descricao>
+        <tipoDeQuarto>king</tipoDeQuarto>
+        <precoDaDiaria>1.21313122E8</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>14</numeroDoQuarto>
+        <descricao>agora vai</descricao>
+        <tipoDeQuarto>legal dms</tipoDeQuarto>
+        <precoDaDiaria>10.0</precoDaDiaria>
+        <disponivel>false</disponivel>
+    </item>
 </ArrayList>
