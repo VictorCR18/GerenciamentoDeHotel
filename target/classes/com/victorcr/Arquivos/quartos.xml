@@ -6,4 +6,25 @@
         <precoDaDiaria>1000.0</precoDaDiaria>
         <disponivel>true</disponivel>
     </item>
+    <item>
+        <numeroDoQuarto>2</numeroDoQuarto>
+        <descricao>bem daora</descricao>
+        <tipoDeQuarto>normal</tipoDeQuarto>
+        <precoDaDiaria>200.0</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>3</numeroDoQuarto>
+        <descricao>bem grande at‚</descricao>
+        <tipoDeQuarto>medio</tipoDeQuarto>
+        <precoDaDiaria>10.0</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
+    <item>
+        <numeroDoQuarto>4</numeroDoQuarto>
+        <descricao>popular e enorme</descricao>
+        <tipoDeQuarto>based</tipoDeQuarto>
+        <precoDaDiaria>1000000.0</precoDaDiaria>
+        <disponivel>true</disponivel>
+    </item>
 </ArrayList>

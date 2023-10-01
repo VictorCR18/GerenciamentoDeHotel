@@ -5,5 +5,26 @@
     "tipoDeQuarto": "luxo",
     "precoDaDiaria": 1000.0,
     "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 2,
+    "descricao": "bem daora",
+    "tipoDeQuarto": "normal",
+    "precoDaDiaria": 200.0,
+    "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 3,
+    "descricao": "bem grande at‚",
+    "tipoDeQuarto": "medio",
+    "precoDaDiaria": 10.0,
+    "disponivel": true
+  },
+  {
+    "numeroDoQuarto": 4,
+    "descricao": "popular e enorme",
+    "tipoDeQuarto": "based",
+    "precoDaDiaria": 1000000.0,
+    "disponivel": true
   }
 ]

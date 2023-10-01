@@ -10,8 +10,11 @@ public class App {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.println(
-      "1 - Inserir quarto\n2 - Contar quantidade de quartos\n3 - Converter CSV para JSON e XML"
+      "\n1 - Inserir quarto\n2 - Contar quantidade de quartos\n3 - Converter CSV para JSON e XML\n"
     );
+
+    System.out.print("Resposta: ");
+    
     int key = scanner.nextInt();
 
     switch (key) {
@@ -38,7 +41,7 @@ public class App {
         }
       default:
         {
-          System.out.println("opção inválida");
+          System.out.println("Opção inválida");
         }
     }
 
@@ -50,8 +53,7 @@ public class App {
     try (
       BufferedReader reader = new BufferedReader(new FileReader(nomeArquivo))
     ) {
-      String linha;
-      while ((linha = reader.readLine()) != null) {
+      while ((reader.readLine()) != null) {
         contador++;
       }
     } catch (IOException e) {
